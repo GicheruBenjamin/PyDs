@@ -14,3 +14,5 @@ Space complexity: The space complexity of a queue is O(n), where n is the number
 Queues are a versatile data structure with many applications in computer science and programming. Understanding how to use and implement queues is an important skill for any programmer.
 
 
+## Application 
+I have used a queue class to implement. Having the methods to do on the queue is really cool.
