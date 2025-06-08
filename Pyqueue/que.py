@@ -22,6 +22,3 @@ class Queue:
         return len(self.items)
     
     
-myqueue = Queue()
-myqueue.enqueue(2)
-print(myqueue.peek())
